@@ -19,3 +19,6 @@ joke()
 print(add(3,6))
 introduce()
 shout()
+
+def smile():
+    print(":D")

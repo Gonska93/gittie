@@ -2,14 +2,17 @@ def hello_git():
     print("Hello,Im Gittie")
 def add(a,b):
     return a + b
+def introduce():
+    print(
+        '''Hi, my name is Piotr.
+I'm 25. I am a codecooler.'''
+    )
 
-hello_git()
-<<<<<<< HEAD
 
 def joke():
     print("Wikipedia: I know everything!\n Google: I have everything! \n Facebook: I know everybody! \n Internet: Without me you are nothing!\n Electricity: Keep talking bitches! ")
-    
+
+hello_git()    
 joke()   
-=======
 print(add(3,6))
->>>>>>> f957665b113e4b1810e02e82d5ab012c217a62e0
+introduce()

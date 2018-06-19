@@ -7,7 +7,9 @@ def introduce():
         '''Hi, my name is Piotr.
 I'm 25. I am a codecooler.'''
     )
+    print("WTF?")
 
+hello_git()
 
 def joke():
     print("Wikipedia: I know everything!\n Google: I have everything! \n Facebook: I know everybody! \n Internet: Without me you are nothing!\n Electricity: Keep talking bitches! ")
